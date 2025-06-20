@@ -44,7 +44,7 @@ Unlock Transient Processor in FL Studio to shape the attack and sustain of any s
 ### 🖼 Preview
 
 Transient Processor plugin enhancing drum punch  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://d29rinwu2hi5i3.cloudfront.net/article_media/f7104ace-6d58-4848-afb4-cacdc98fc849/transient_processor.jpg)  
 *Shape your sound with precision attack and sustain control*
 
 ---
